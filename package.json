@@ -1,0 +1,23 @@
+{
+  "name": "simple-queue-with-mq",
+  "version": "1.0.0",
+  "description": "Simple message queue in Nodejs and RabbitMQ.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iKnowJavaScript/simple-queue-with-mq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iKnowJavaScript/simple-queue-with-mq/issues"
+  },
+  "homepage": "https://github.com/iKnowJavaScript/simple-queue-with-mq#readme",
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  }
+}
